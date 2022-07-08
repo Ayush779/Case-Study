@@ -1,0 +1,50 @@
+,theme,comp,score,score_type
+0,low carb,"[('weak', 'B'), ('strong', 'D'), ('strong', 'F'), ('weak', 'H'), ('weak', 'Others'), ('weak', 'Private Label')]",-2,Vendor A is well placed 
+1,salmon,"[('weak', 'B'), ('medium', 'D'), ('weak', 'F'), ('weak', 'H'), ('weak', 'Others'), ('weak', 'Private Label')]",-5,Vendor A is well placed 
+2,buckwheat,"[('weak', 'B'), ('strong', 'D'), ('weak', 'F'), ('weak', 'H'), ('weak', 'Others'), ('weak', 'Private Label')]",-4,Vendor A is well placed 
+3,crab,"[('strong', 'F'), ('medium', 'Others'), ('strong', 'Private Label')]",2,Vendor A has strong competition 
+4,apple cinnamon,"[('weak', 'B'), ('medium', 'D'), ('medium', 'F'), ('weak', 'H'), ('weak', 'Others'), ('strong', 'Private Label')]",-2,Vendor A is well placed 
+5,ethnic & exotic,"[('weak', 'B'), ('strong', 'D'), ('medium', 'F'), ('medium', 'H'), ('weak', 'Others'), ('weak', 'Private Label')]",-2,Vendor A is well placed 
+6,chicken,"[('weak', 'B'), ('weak', 'D'), ('weak', 'F'), ('weak', 'H'), ('weak', 'Others'), ('weak', 'Private Label')]",-6,Vendor A is well placed 
+7,cocoa,[],0,Vendor A has medium competition 
+8,french bisque,"[('strong', 'B'), ('strong', 'D'), ('medium', 'F'), ('strong', 'Others'), ('medium', 'Private Label')]",3,Vendor A has strong competition 
+9,pollock,"[('strong', 'B'), ('strong', 'D'), ('strong', 'F'), ('weak', 'H'), ('weak', 'Others'), ('weak', 'Private Label')]",0,Vendor A has medium competition 
+10,blueberry,"[('weak', 'B'), ('medium', 'D'), ('strong', 'F'), ('weak', 'H'), ('weak', 'Others'), ('weak', 'Private Label')]",-3,Vendor A is well placed 
+11,american southwest style,"[('weak', 'B'), ('medium', 'D'), ('strong', 'F'), ('weak', 'H'), ('weak', 'Others'), ('weak', 'Private Label')]",-3,Vendor A is well placed 
+12,no additives/preservatives,"[('strong', 'B'), ('strong', 'D'), ('strong', 'F'), ('weak', 'H'), ('weak', 'Others'), ('weak', 'Private Label')]",0,Vendor A has medium competition 
+13,stroganoff,"[('weak', 'B'), ('strong', 'D'), ('strong', 'F'), ('strong', 'H'), ('weak', 'Others')]",1,Vendor A has medium competition 
+14,poultry,"[('medium', 'B'), ('medium', 'Others')]",0,Vendor A has medium competition 
+15,gingerbread,"[('medium', 'B'), ('weak', 'D'), ('weak', 'F'), ('medium', 'H'), ('medium', 'Others')]",-2,Vendor A is well placed 
+16,low sodium,"[('medium', 'B'), ('weak', 'F'), ('medium', 'Others'), ('weak', 'Private Label')]",-2,Vendor A is well placed 
+17,high/source of protein,"[('weak', 'B'), ('weak', 'Others')]",-2,Vendor A is well placed 
+18,tilapia,"[('weak', 'Others')]",-1,Vendor A has medium competition 
+19,vegetarian,"[('strong', 'B'), ('weak', 'H'), ('strong', 'Others')]",1,Vendor A has medium competition 
+20,brown ale,"[('weak', 'B'), ('weak', 'H'), ('medium', 'Others'), ('strong', 'Private Label')]",-1,Vendor A has medium competition 
+21,gmo free,"[('strong', 'B'), ('strong', 'F'), ('weak', 'H'), ('strong', 'Others'), ('medium', 'Private Label')]",2,Vendor A has strong competition 
+22,cookie,"[('strong', 'B'), ('strong', 'D'), ('medium', 'F'), ('weak', 'H'), ('weak', 'Others'), ('weak', 'Private Label')]",-1,Vendor A has medium competition 
+23,pizza,"[('strong', 'B'), ('strong', 'D'), ('medium', 'F'), ('weak', 'H'), ('weak', 'Others'), ('weak', 'Private Label')]",-1,Vendor A has medium competition 
+24,herbs,"[('weak', 'F'), ('weak', 'H'), ('weak', 'Others')]",-3,Vendor A is well placed 
+25,nuts,"[('weak', 'Private Label')]",-1,Vendor A has medium competition 
+26,low calorie,[],0,Vendor A has medium competition 
+27,peanut,[],0,Vendor A has medium competition 
+28,beans,"[('strong', 'D'), ('strong', 'Others'), ('weak', 'Private Label')]",1,Vendor A has medium competition 
+29,beef hamburger,"[('strong', 'Others')]",1,Vendor A has medium competition 
+30,low sugar,"[('weak', 'B'), ('weak', 'H'), ('weak', 'Others'), ('weak', 'Private Label')]",-4,Vendor A is well placed 
+31,energy/alertness,"[('medium', 'Others'), ('medium', 'Private Label')]",0,Vendor A has medium competition 
+32,soy foods,"[('weak', 'B'), ('weak', 'D'), ('weak', 'F'), ('weak', 'H'), ('weak', 'Others'), ('weak', 'Private Label')]",-6,Vendor A is well placed 
+33,convenience - easy-to-prepare,[],0,Vendor A has medium competition 
+34,prebiotic,[],0,Vendor A has medium competition 
+35,scallop,[],0,Vendor A has medium competition 
+36,ethical - packaging,"[('strong', 'B'), ('weak', 'F'), ('weak', 'Others')]",-1,Vendor A has medium competition 
+37,american gumbo,"[('strong', 'B'), ('strong', 'F'), ('medium', 'H'), ('medium', 'Others'), ('strong', 'Private Label')]",3,Vendor A has strong competition 
+38,bone health,[],0,Vendor A has medium competition 
+39,peach,[],0,Vendor A has medium competition 
+40,mackerel,[],0,Vendor A has medium competition 
+41,sea salt,[],0,Vendor A has medium competition 
+42,cherry,[],0,Vendor A has medium competition 
+43,halal,[],0,Vendor A has medium competition 
+44,red raspberry,"[('weak', 'Private Label')]",-1,Vendor A has medium competition 
+45,cumin,[],0,Vendor A has medium competition 
+46,tuna,[],0,Vendor A has medium competition 
+47,ethical - not specific,[],0,Vendor A has medium competition 
+48,No Claim,"[('weak', 'B'), ('weak', 'D'), ('medium', 'E'), ('weak', 'F'), ('medium', 'G'), ('weak', 'H'), ('weak', 'Others'), ('weak', 'Private Label')]",-6,Vendor A is well placed 

@@ -1,0 +1,50 @@
+,theme,comp,score
+0,low carb,"[('weak', 'B'), ('strong', 'D'), ('strong', 'F'), ('weak', 'H'), ('weak', 'Others'), ('weak', 'Private Label')]",-2
+1,salmon,"[('weak', 'B'), ('medium', 'D'), ('weak', 'F'), ('weak', 'H'), ('weak', 'Others'), ('weak', 'Private Label')]",-5
+2,buckwheat,"[('weak', 'B'), ('strong', 'D'), ('weak', 'F'), ('weak', 'H'), ('weak', 'Others'), ('weak', 'Private Label')]",-4
+3,crab,"[('strong', 'F'), ('medium', 'Others'), ('strong', 'Private Label')]",2
+4,apple cinnamon,"[('weak', 'B'), ('medium', 'D'), ('medium', 'F'), ('weak', 'H'), ('weak', 'Others'), ('strong', 'Private Label')]",-2
+5,ethnic & exotic,"[('weak', 'B'), ('strong', 'D'), ('medium', 'F'), ('medium', 'H'), ('weak', 'Others'), ('weak', 'Private Label')]",-2
+6,chicken,"[('weak', 'B'), ('weak', 'D'), ('weak', 'F'), ('weak', 'H'), ('weak', 'Others'), ('weak', 'Private Label')]",-6
+7,cocoa,[],0
+8,french bisque,"[('strong', 'B'), ('strong', 'D'), ('medium', 'F'), ('strong', 'Others'), ('medium', 'Private Label')]",3
+9,pollock,"[('strong', 'B'), ('strong', 'D'), ('strong', 'F'), ('weak', 'H'), ('weak', 'Others'), ('weak', 'Private Label')]",0
+10,blueberry,"[('weak', 'B'), ('medium', 'D'), ('strong', 'F'), ('weak', 'H'), ('weak', 'Others'), ('weak', 'Private Label')]",-3
+11,american southwest style,"[('weak', 'B'), ('medium', 'D'), ('strong', 'F'), ('weak', 'H'), ('weak', 'Others'), ('weak', 'Private Label')]",-3
+12,no additives/preservatives,"[('strong', 'B'), ('strong', 'D'), ('strong', 'F'), ('weak', 'H'), ('weak', 'Others'), ('weak', 'Private Label')]",0
+13,stroganoff,"[('weak', 'B'), ('strong', 'D'), ('strong', 'F'), ('strong', 'H'), ('weak', 'Others')]",1
+14,poultry,"[('medium', 'B'), ('medium', 'Others')]",0
+15,gingerbread,"[('medium', 'B'), ('weak', 'D'), ('weak', 'F'), ('medium', 'H'), ('medium', 'Others')]",-2
+16,low sodium,"[('medium', 'B'), ('weak', 'F'), ('medium', 'Others'), ('weak', 'Private Label')]",-2
+17,high/source of protein,"[('weak', 'B'), ('weak', 'Others')]",-2
+18,tilapia,"[('weak', 'Others')]",-1
+19,vegetarian,"[('strong', 'B'), ('weak', 'H'), ('strong', 'Others')]",1
+20,brown ale,"[('weak', 'B'), ('weak', 'H'), ('medium', 'Others'), ('strong', 'Private Label')]",-1
+21,gmo free,"[('strong', 'B'), ('strong', 'F'), ('weak', 'H'), ('strong', 'Others'), ('medium', 'Private Label')]",2
+22,cookie,"[('strong', 'B'), ('strong', 'D'), ('medium', 'F'), ('weak', 'H'), ('weak', 'Others'), ('weak', 'Private Label')]",-1
+23,pizza,"[('strong', 'B'), ('strong', 'D'), ('medium', 'F'), ('weak', 'H'), ('weak', 'Others'), ('weak', 'Private Label')]",-1
+24,herbs,"[('weak', 'F'), ('weak', 'H'), ('weak', 'Others')]",-3
+25,nuts,"[('weak', 'Private Label')]",-1
+26,low calorie,[],0
+27,peanut,[],0
+28,beans,"[('strong', 'D'), ('strong', 'Others'), ('weak', 'Private Label')]",1
+29,beef hamburger,"[('strong', 'Others')]",1
+30,low sugar,"[('weak', 'B'), ('weak', 'H'), ('weak', 'Others'), ('weak', 'Private Label')]",-4
+31,energy/alertness,"[('medium', 'Others'), ('medium', 'Private Label')]",0
+32,soy foods,"[('weak', 'B'), ('weak', 'D'), ('weak', 'F'), ('weak', 'H'), ('weak', 'Others'), ('weak', 'Private Label')]",-6
+33,convenience - easy-to-prepare,[],0
+34,prebiotic,[],0
+35,scallop,[],0
+36,ethical - packaging,"[('strong', 'B'), ('weak', 'F'), ('weak', 'Others')]",-1
+37,american gumbo,"[('strong', 'B'), ('strong', 'F'), ('medium', 'H'), ('medium', 'Others'), ('strong', 'Private Label')]",3
+38,bone health,[],0
+39,peach,[],0
+40,mackerel,[],0
+41,sea salt,[],0
+42,cherry,[],0
+43,halal,[],0
+44,red raspberry,"[('weak', 'Private Label')]",-1
+45,cumin,[],0
+46,tuna,[],0
+47,ethical - not specific,[],0
+48,No Claim,"[('weak', 'B'), ('weak', 'D'), ('medium', 'E'), ('weak', 'F'), ('medium', 'G'), ('weak', 'H'), ('weak', 'Others'), ('weak', 'Private Label')]",-6
